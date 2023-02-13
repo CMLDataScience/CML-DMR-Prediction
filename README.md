@@ -1,6 +1,6 @@
 Early Dynamics of Chronic Myeloid Leukemia on Nilotinib Predicts Deep Molecular Response.
 ====
-This readme text provides you how you run the application of the early prediction of tyrosine kinase inhibitor's response using time-series data of white blood cells (WBCs) and IS values. The enclosed codes were used in [our paper](https://doi.org/10.1038/s41540-022-00248-3).
+This readme text provides you how you run the application of the early prediction of tyrosine kinase inhibitor's response using time-series data of white blood cells (WBCs) and IS values. The enclosed codes were used in [our paper (Y. Okamoto, M. Hirano, K. Morino, M. K. Kajita, et al., Early dynamics of chronic myeloid leukemia on nilotinib predicts deep molecular response, npj Systems biology and applications, 2020)](https://doi.org/10.1038/s41540-022-00248-3).
 The following text provides you the details of enclosed files and codes; the outputs of our application; requirements of computational environment; how you install and run our codes.
 
 ## Description
